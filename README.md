@@ -61,11 +61,9 @@ Install the following:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Personal-Finance-Tracker.git
+git clone https://github.com/kounozagiel/Personal-Finance-Tracker.git
 cd Personal-Finance-Tracker
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 

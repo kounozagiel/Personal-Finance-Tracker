@@ -115,13 +115,19 @@ Open the local URL shown in your terminal.
 
 ## 📸 Screenshots
 
-Screenshots of the following features will be added:
+### 📊 Financial Dashboard
 
-- Financial Dashboard
-- Transaction Management
-- Monthly Budget Tracking
-- Spending Health Meter
-- AI Finance Assistant
+View income, expenses, remaining balance, spending by category,
+and monthly spending trends.
+
+![Financial Dashboard](screenshots/dashboard.png)
+
+### 💰 Spending Health Meter
+
+Monitor monthly spending compared to typical spending using
+a color-coded gauge.
+
+![Spending Health Meter](screenshots/spending_health_meter.png)
 
 ## 🔮 Future Improvements
 
